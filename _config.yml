@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            magia.se
+description:      Ale's home on the Web
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,9 +8,9 @@ url:              http://alemacgo.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Alejandro Machado
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          alejandro@magia.se
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
