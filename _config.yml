@@ -1,10 +1,11 @@
-title:            magia.se
-description:      Ale's home on the Web
+title:            Ale's home on the Web
+description:      I am a UX Designer currently studying at Carnegie Mellon University
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://alemacgo.github.io
+#url:              http://alemacgo.github.io
+encoding:         UTF-8
 
 # Owner/author information
 owner:
@@ -32,15 +33,27 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Twitter
+    url: http://www.twitter.com/alemacgo
     external: true
+  - title: GitHub
+    url: http://www.github.com/alemacgo
+    external: true
+  - title: Email
+    url: mailto:alejandro@magia.se
+    external: true
+  - title: Résumé
+    url: /resume-alejandroMachado.pdf
+    external: true
+  #- title: About
+  #  url: /about/
+  #- title: Articles
+  #  url: /articles/
+  #- title: Theme Setup
+  #  url: /theme-setup/
+  #- title: Made Mistakes
+  #  url: http://mademistakes.com
+  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
