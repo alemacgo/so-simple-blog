@@ -1,4 +1,4 @@
-title:            Ale's home on the Web
+title:            Ale's stories on the web
 description:      I am a UX Designer currently studying at Carnegie Mellon University
 logo:             site-logo.png
 disqus_shortname: 
@@ -13,16 +13,16 @@ owner:
   avatar:         bio-photo.jpg
   email:          alejandro@magia.se
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        alemacgo
   facebook:       
-  github:         
+  github:         alemacgo
   stackexchange:  
-  linkedin:       
+  linkedin:       alemacgo
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -38,9 +38,6 @@ links:
     external: true
   - title: GitHub
     url: http://www.github.com/alemacgo
-    external: true
-  - title: Email
-    url: mailto:alejandro@magia.se
     external: true
   - title: Résumé
     url: /resume-alejandroMachado.pdf
