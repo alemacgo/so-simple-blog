@@ -26,11 +26,12 @@ General notes and suggestions for customizing So Simple Theme.
 ## Basic Setup for new Jekyll site
 
 1. [Install Jekyll](http://jekyllrb.com) and read through the documentation if you haven't already.
-2. Fork the [So Simple Theme repo](https://github.com/mmistakes/so-simple-theme/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
-5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data.
-6. Read the documentation below for further customization pointers and documentation.
+2. [Install Jekyll Extra - Kramdown](http://jekyllrb.com/docs/extras/#kramdown)
+3. Fork the [So Simple Theme repo](https://github.com/mmistakes/so-simple-theme/fork)
+4. Clone the repo you just forked.
+5. Edit `_config.yml` to personalize your site.
+6. Check out the sample posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data.
+7. Read the documentation below for further customization pointers and documentation.
 
 [Download the Theme](http://mmistakes.github.io/so-simple-theme)
 
@@ -148,3 +149,7 @@ Having a problem getting something to work or want to know why I setup something
 This theme is free and open source software, distributed under the [GNU General Public License](LICENSE) version 2 or later. So feel free to to modify this theme to suit your needs. 
 
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@mmistakes](https://twitter.com/mmistakes), that would be pretty sweet.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
