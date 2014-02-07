@@ -5,6 +5,11 @@ description: "Ale's home on the Web"
 index: true
 ---
 
+<h2 class="site-description animated fadeIn">I'm currently updating my portfolio, things might be rough.</h2>
+<center>
+<a class="btn" href="http://magia.site44.com/">Check out my old site here</a>
+</center>
+
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
 <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
